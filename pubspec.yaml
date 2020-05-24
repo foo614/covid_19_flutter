@@ -1,5 +1,7 @@
 name: covid_19
-description: A new Flutter project.
+description: A new Flutter project COVID 19.
+author: FLD<fld614@gmail.com>
+homepage: https://github.com/foo614/covid_19_flutter.git
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
